@@ -2,13 +2,13 @@
 
 **Developer-first automation — browser, desktop, Office & API workflows with durable execution.**
 
-Rinkt is a full-stack automation platform that lets developers build and orchestrate workflows across browsers, desktop applications, Microsoft Office, and APIs — all backed by [Temporal](https://temporal.io) for reliable, durable execution.
+Rinkt is a full-stack automation platform that lets developers build and orchestrate workflows across browsers, desktop applications, Microsoft Office, and APIs — with built-in reliability, automatic retries, and state persistence.
 
 ## What makes Rinkt different
 
 - **Cross-platform reach** — Automate browsers (Playwright), native desktop apps, Office documents, and REST/GraphQL APIs from a single workflow
 - **Built for developers** — Code-first workflow definitions, not drag-and-drop. Version control, test, and deploy like any other software
-- **Durable execution** — Powered by Temporal: automatic retries, state persistence, and fault tolerance out of the box
+- **Durable execution** — Automatic retries, state persistence, and fault tolerance out of the box
 - **100+ activity types** — Rich library of pre-built activities for common automation tasks
 
 ## Repositories
