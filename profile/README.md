@@ -1,8 +1,6 @@
-<!-- TODO: Uncomment once assets/banner.png exists in the runner repo
 <p align="center">
   <img src="https://raw.githubusercontent.com/RinktLtd/runner/main/assets/banner.png" alt="Rinkt" width="100%">
 </p>
--->
 
 # Rinkt
 
